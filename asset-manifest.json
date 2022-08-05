@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://ashishrath619.github.io/csb-qz6yu7/static/css/main.c5d9180e.chunk.css",
+    "main.js": "https://ashishrath619.github.io/csb-qz6yu7/static/js/main.7b1dceff.chunk.js",
+    "main.js.map": "https://ashishrath619.github.io/csb-qz6yu7/static/js/main.7b1dceff.chunk.js.map",
+    "runtime-main.js": "https://ashishrath619.github.io/csb-qz6yu7/static/js/runtime-main.c41863f0.js",
+    "runtime-main.js.map": "https://ashishrath619.github.io/csb-qz6yu7/static/js/runtime-main.c41863f0.js.map",
+    "static/css/2.d29e9911.chunk.css": "https://ashishrath619.github.io/csb-qz6yu7/static/css/2.d29e9911.chunk.css",
+    "static/js/2.33aeac76.chunk.js": "https://ashishrath619.github.io/csb-qz6yu7/static/js/2.33aeac76.chunk.js",
+    "static/js/2.33aeac76.chunk.js.map": "https://ashishrath619.github.io/csb-qz6yu7/static/js/2.33aeac76.chunk.js.map",
+    "index.html": "https://ashishrath619.github.io/csb-qz6yu7/index.html",
+    "static/css/2.d29e9911.chunk.css.map": "https://ashishrath619.github.io/csb-qz6yu7/static/css/2.d29e9911.chunk.css.map",
+    "static/css/main.c5d9180e.chunk.css.map": "https://ashishrath619.github.io/csb-qz6yu7/static/css/main.c5d9180e.chunk.css.map",
+    "static/js/2.33aeac76.chunk.js.LICENSE.txt": "https://ashishrath619.github.io/csb-qz6yu7/static/js/2.33aeac76.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "https://ashishrath619.github.io/csb-qz6yu7/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c41863f0.js",
+    "static/css/2.d29e9911.chunk.css",
+    "static/js/2.33aeac76.chunk.js",
+    "static/css/main.c5d9180e.chunk.css",
+    "static/js/main.7b1dceff.chunk.js"
+  ]
+}
